@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/Adityapanther/fastify-ts#readme",
   "dependencies": {
-    "fastify": "^3.27.0",
+    "fastify": "^3.29.4",
     "fastify-env": "^2.1.1"
   },
   "devDependencies": {
